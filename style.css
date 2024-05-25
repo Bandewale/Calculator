@@ -13,7 +13,7 @@ html{
 /*     position:relative;
     left:38%;
     top:15%; */
-    margin-top:5%;  
+    margin-top:3%;  
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,6 +22,7 @@ html{
     border:5px solid black;
     border-radius: 45px;
     background-color:#222831;
+    place-items:center;
 
 }
 .display{
