@@ -10,9 +10,9 @@ html{
 .flex{
     height:38rem;
     width:25rem;
-    position:relative;
+/*     position:relative;
     left:38%;
-    top:15%;
+    top:15%; */
     margin-top:5%;  
     display: flex;
     justify-content: center;
